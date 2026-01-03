@@ -1,17 +1,14 @@
 # CODESOFT
 C++ Programming Internship Tasks
-CODSOFT/
+CODSOFT
 
-Task1_GuessNumber/
-    guess_number.cpp
-    README.md
 
-Task2_StudentManagement/
-    student_management.cpp
-    README.md
-    
- Task3_SimpleCalculator/
-    calculator.cpp
-    README.md
- 
-  README.md
+C++ Programming Internship 
+
+## Tasks Completed
+1. Guess the Number Game (C++)
+2. Student Management System
+3. Simple Calculator
+
+Each task is implemented using C++ 
+
