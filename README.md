@@ -1,2 +1,2 @@
 # CODESOFT
-C++ Programming Internship TaskS
+C++ Programming Internship Tasks
